@@ -13,7 +13,7 @@ Here, you can find the experimental code, example wav files, and the test datase
 <table border="1">
   <colgroup>
     <col style="width:auto;">
-    <col style="width:100px;">
+    <col style="width:400px;">
     <col style="width:400px;">
   </colgroup>
   <tr>
@@ -23,25 +23,20 @@ Here, you can find the experimental code, example wav files, and the test datase
   </tr>
   <tr>
     <td rowspan="4"><img src="image/1.png" alt="document 1"></td>
-    <td>
-      <audio controls>
-        <source src="audios/example1.wav" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>x plus 5y plus 10z equals zero. </td>
+    <td><b>MathReader</b></td>
+    <td><a href="https://drive.google.com/file/d/1ONoeIQmYewlm3N9T5bo9DsO2TUwxq2S4/view?usp=drive_link" target="_blank">Click Here</a></td>
   </tr>
   <tr>
-    <td align="center"><b>Ours</b></td>
-    <td align="center"><b>GPT3.5</b></td>
+    <td><b>Microsoft Edge</b></td>
+    <td><a href="https://drive.google.com/file/d/1k8xYV5iqa6s7_UEvJJxRPBpB_0nbHQTZ/view?usp=drive_link" target="_blank">Click Here</a></td>
   </tr>
   <tr>
-    <td>$x+5y+10z=0$</td>
-    <td>$ x + 5y + 10z = 0 $</td>
+    <td><b>Adobe Acrobat</b></td>
+    <td><a href="https://drive.google.com/file/d/1Bc0FZFEa-NeTmNDidt42lqrT17mZ42k0/view?usp=drive_link" target="_blank">Click Here</a></td>
   </tr>
   <tr>
-    <td align="center"><b>Lecture Audio</b></td>
-    <td align="center"><b>Lecture Audio</b></td>
+    <td><b>MathReader without T5(Ablation Study)</b></td>
+    <td><a href="https://drive.google.com/file/d/1m05IPg5uRJlyKkyhRpIZ--EShS2K6Rwt/view?usp=drive_link" target="_blank">Click Here</a></td>
   </tr>
 </table>
 
