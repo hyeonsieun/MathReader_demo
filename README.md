@@ -21,12 +21,10 @@ Here, you can find the experimental code, example wav files, and the test datase
     <col style="width:300px;">
   </colgroup>
   <tr>
-    <td></td>
     <td align="center"><b>Formula</b></td>
     <td align="center"><b>OCR result</b></td>
   </tr>
   <tr>
-    <td rowspan="2"><strong>1</strong></td>
     <td><img src="images/tts_fig1_1.png" alt="Math formula image"></td>
     <td>\[y^{\prime}=\frac{1}{e^{y}}=\frac{1}{x}.\] </td>
   </tr>
