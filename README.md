@@ -7,12 +7,13 @@ TTS (Text-to-Speech) document reader from Microsoft, Adobe, Apple, and OpenAI ha
 
 Here, you can find the experimental code, example wav files, and the test dataset developed for our research.
 
+---
 
 ## Example results from MathReader
 
 <table border="1">
   <colgroup>
-    <col style="width:800;">
+    <col style="width:800px;">
     <col style="width:100px;">
     <col style="width:100px;">
   </colgroup>
