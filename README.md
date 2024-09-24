@@ -14,7 +14,7 @@ Here, you can find the experimental code, example wav files, and the test datase
 
 ### Example 1
 
-![example1](/image/1.png)
+
 
 <table border="1">
   <colgroup>
@@ -28,7 +28,7 @@ Here, you can find the experimental code, example wav files, and the test datase
     <td align="center"><b>ASR result</b></td>
   </tr>
   <tr>
-    <td rowspan="2"><strong>1</strong></td>
+    <td rowspan="4"><strong>![example1](/image/1.png)</strong></td>
     <td>
       <audio controls>
         <source src="audios/example1.wav" type="audio/mpeg">
@@ -42,10 +42,6 @@ Here, you can find the experimental code, example wav files, and the test datase
     <td align="center"><b>GPT3.5</b></td>
   </tr>
   <tr>
-    <td style="border-bottom: 2px solid black;" rowspan="2">
-      Lec 4: Square systems; equations of planes | MIT 18.02 Multivariable Calculus, Fall 2007
-      <a href="https://youtu.be/YBajUR3EFSM?t=223" target="_blank">[3:43 ~ 3:48]</a>
-    </td>
     <td>$x+5y+10z=0$</td>
     <td>$ x + 5y + 10z = 0 $</td>
   </tr>
