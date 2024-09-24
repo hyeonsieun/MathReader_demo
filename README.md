@@ -12,45 +12,46 @@ Here, you can find the experimental code, example wav files, and the test datase
 
 ### Example 1
 
+### Example 1
+
 ![example1](/image/1.png)
 
 <table border="1">
   <colgroup>
     <col style="width:auto;">
-    <col style="width:700px;">
-    <col style="width:300px;">
+    <col style="width:400px;">
+    <col style="width:400px;">
   </colgroup>
   <tr>
-    <td align="center"><b>Formula</b></td>
-    <td align="center"><b>OCR result</b></td>
-    <td align="center"><b>OCR result</b></td>
-    <td align="center"><b>OCR result</b></td>
+    <td></td>
+    <td align="center"><b>Lecture Audio</b></td>
+    <td align="center"><b>ASR result</b></td>
   </tr>
   <tr>
-    <td style="border-bottom: 2px solid black;">
+    <td rowspan="2"><strong>1</strong></td>
+    <td>
       <audio controls>
-        <source src="audios/tts_1_ver2.wav" type="audio/mpeg">
-         Your browser does not support the audio element.
-      </audio>  
+        <source src="audios/example1.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
     </td>
-    <td style="border-bottom: 2px solid black;">
-       <audio controls>
-        <source src="audios/tts_1_ver2_GPT.wav" type="audio/mpeg">
-         Your browser does not support the audio element.
-      </audio>  
+    <td>x plus 5y plus 10z equals zero. </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ours</b></td>
+    <td align="center"><b>GPT3.5</b></td>
+  </tr>
+  <tr>
+    <td style="border-bottom: 2px solid black;" rowspan="2">
+      Lec 4: Square systems; equations of planes | MIT 18.02 Multivariable Calculus, Fall 2007
+      <a href="https://youtu.be/YBajUR3EFSM?t=223" target="_blank">[3:43 ~ 3:48]</a>
     </td>
-        <td style="border-bottom: 2px solid black;">
-       <audio controls>
-        <source src="audios/tts_1_ver2_GPT.wav" type="audio/mpeg">
-         Your browser does not support the audio element.
-      </audio>  
-    </td>
-        <td style="border-bottom: 2px solid black;">
-       <audio controls>
-        <source src="audios/tts_1_ver2_GPT.wav" type="audio/mpeg">
-         Your browser does not support the audio element.
-      </audio>  
-    </td>
+    <td>$x+5y+10z=0$</td>
+    <td>$ x + 5y + 10z = 0 $</td>
+  </tr>
+  <tr>
+    <td style="border-bottom: 2px solid black;"><img src="images/fig1.png" alt="Math formula image"></td>
+    <td style="border-bottom: 2px solid black;"><img src="images/fig1.png" alt="Math formula image"></td>
   </tr>
 </table>
 
