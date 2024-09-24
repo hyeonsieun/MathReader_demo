@@ -41,4 +41,33 @@ Here, you can find the experimental code, example wav files, and the test datase
   </tr>
 </table>
 
+<table border="1">
+  <colgroup>
+    <col style="width:800px;">
+    <col style="width:100px;">
+    <col style="width:100px;">
+  </colgroup>
+  <tr>
+    <td align="center"><b>Example 2</b></td>
+    <td align="center"><b>TTS document reader</b></td>
+    <td align="center"><b>Audio Result</b></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><img src="image/2.png" alt="document 1"></td>
+    <td><b>MathReader</b></td>
+    <td><a href="https://drive.google.com/file/d/1ONoeIQmYewlm3N9T5bo9DsO2TUwxq2S4/view?usp=drive_link" target="_blank">Click Here</a></td>
+  </tr>
+  <tr>
+    <td><b>Microsoft Edge</b></td>
+    <td><a href="https://drive.google.com/file/d/1k8xYV5iqa6s7_UEvJJxRPBpB_0nbHQTZ/view?usp=drive_link" target="_blank">Click Here</a></td>
+  </tr>
+  <tr>
+    <td><b>Adobe Acrobat</b></td>
+    <td><a href="https://drive.google.com/file/d/1Bc0FZFEa-NeTmNDidt42lqrT17mZ42k0/view?usp=drive_link" target="_blank">Click Here</a></td>
+  </tr>
+  <tr>
+    <td><b>MathReader without T5     (Ablation Study)</b></td>
+    <td><a href="https://drive.google.com/file/d/1m05IPg5uRJlyKkyhRpIZ--EShS2K6Rwt/view?usp=drive_link" target="_blank">Click Here</a></td>
+  </tr>
+</table>
 
