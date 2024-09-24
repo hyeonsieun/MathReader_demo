@@ -12,9 +12,9 @@ Here, you can find the experimental code, example wav files, and the test datase
 
 <table border="1">
   <colgroup>
-    <col style="width:auto;">
-    <col style="width:400px;">
-    <col style="width:400px;">
+    <col style="width:800;">
+    <col style="width:100px;">
+    <col style="width:100px;">
   </colgroup>
   <tr>
     <td align="center"><b>Example 1</b></td>
