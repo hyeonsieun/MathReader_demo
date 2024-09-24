@@ -23,21 +23,8 @@ Here, you can find the experimental code, example wav files, and the test datase
   <tr>
     <td align="center"><b>Formula</b></td>
     <td align="center"><b>OCR result</b></td>
-  </tr>
-  <tr>
-    <td><img src="images/tts_fig1_1.png" alt="Math formula image"></td>
-    <td>\[y^{\prime}=\frac{1}{e^{y}}=\frac{1}{x}.\] </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Ours</b></td>
-    <td align="center"><b>GPT3.5</b></td>
-  </tr>
-  <tr>
-    <td style="border-bottom: 2px solid black;" rowspan="2">
-      <a href="https://www.whitman.edu/mathematics/california_calculus/calculus.pdf" target="_blank">[Calculus Math Textbook] Page 98.</a>
-    </td>
-    <td>y prime equals one over e to the power of y equals one over x.</td>
-    <td>y prime equals one over e to the power of y equals one over x.</td>
+    <td align="center"><b>OCR result</b></td>
+    <td align="center"><b>OCR result</b></td>
   </tr>
   <tr>
     <td style="border-bottom: 2px solid black;">
@@ -47,6 +34,18 @@ Here, you can find the experimental code, example wav files, and the test datase
       </audio>  
     </td>
     <td style="border-bottom: 2px solid black;">
+       <audio controls>
+        <source src="audios/tts_1_ver2_GPT.wav" type="audio/mpeg">
+         Your browser does not support the audio element.
+      </audio>  
+    </td>
+        <td style="border-bottom: 2px solid black;">
+       <audio controls>
+        <source src="audios/tts_1_ver2_GPT.wav" type="audio/mpeg">
+         Your browser does not support the audio element.
+      </audio>  
+    </td>
+        <td style="border-bottom: 2px solid black;">
        <audio controls>
         <source src="audios/tts_1_ver2_GPT.wav" type="audio/mpeg">
          Your browser does not support the audio element.
