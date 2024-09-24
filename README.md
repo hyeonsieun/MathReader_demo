@@ -13,7 +13,7 @@ Here, you can find the experimental code, example wav files, and the test datase
 <table border="1">
   <colgroup>
     <col style="width:auto;">
-    <col style="width:400px;">
+    <col style="width:100px;">
     <col style="width:400px;">
   </colgroup>
   <tr>
