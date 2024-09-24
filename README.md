@@ -53,7 +53,7 @@ Here, you can find the experimental code, example wav files, and the test datase
     <td align="center"><b>Audio Result</b></td>
   </tr>
   <tr>
-    <td rowspan="4"><img src="image/2.png" alt="document 1"></td>
+    <td rowspan="4"><img src="image/2.png" alt="document 2"></td>
     <td><b>MathReader</b></td>
     <td><a href="https://drive.google.com/file/d/1ONoeIQmYewlm3N9T5bo9DsO2TUwxq2S4/view?usp=drive_link" target="_blank">Click Here</a></td>
   </tr>
