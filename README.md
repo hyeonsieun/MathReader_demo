@@ -46,8 +46,8 @@ Here, you can find the experimental code, example wav files, and the test datase
     <td>$ x + 5y + 10z = 0 $</td>
   </tr>
   <tr>
-    <td style="border-bottom: 2px solid black;"><img src="images/fig1.png" alt="Math formula image"></td>
-    <td style="border-bottom: 2px solid black;"><img src="images/fig1.png" alt="Math formula image"></td>
+    <td align="center"><b>Lecture Audio</b></td>
+    <td align="center"><b>Lecture Audio</b></td>
   </tr>
 </table>
 
