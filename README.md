@@ -35,7 +35,7 @@ Here, you can find the experimental code, example wav files, and the test datase
     <td><a href="https://drive.google.com/file/d/1Bc0FZFEa-NeTmNDidt42lqrT17mZ42k0/view?usp=drive_link" target="_blank">Click Here</a></td>
   </tr>
   <tr>
-    <td><b>MathReader without T5(Ablation Study)</b></td>
+    <td><b>MathReader without T5     (Ablation Study)</b></td>
     <td><a href="https://drive.google.com/file/d/1m05IPg5uRJlyKkyhRpIZ--EShS2K6Rwt/view?usp=drive_link" target="_blank">Click Here</a></td>
   </tr>
 </table>
