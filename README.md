@@ -10,12 +10,6 @@ Here, you can find the experimental code, example wav files, and the test datase
 
 ## Example results from MathReader
 
-### Example 1
-
-### Example 1
-
-
-
 <table border="1">
   <colgroup>
     <col style="width:auto;">
@@ -23,9 +17,9 @@ Here, you can find the experimental code, example wav files, and the test datase
     <col style="width:400px;">
   </colgroup>
   <tr>
-    <td></td>
-    <td align="center"><b>Lecture Audio</b></td>
-    <td align="center"><b>ASR result</b></td>
+    <td align="center"><b>Example 1</b></td>
+    <td align="center"><b>TTS document reader</b></td>
+    <td align="center"><b>Audio Result</b></td>
   </tr>
   <tr>
     <td rowspan="4"><img src="image/1.png" alt="document 1"></td>
