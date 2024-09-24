@@ -28,7 +28,7 @@ Here, you can find the experimental code, example wav files, and the test datase
     <td align="center"><b>ASR result</b></td>
   </tr>
   <tr>
-    <td rowspan="4"><strong>![example1](/image/1.png)</strong></td>
+    <td rowspan="4"><img src="image/1.png" alt="document 1"></td>
     <td>
       <audio controls>
         <source src="audios/example1.wav" type="audio/mpeg">
