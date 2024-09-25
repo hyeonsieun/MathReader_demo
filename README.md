@@ -216,7 +216,7 @@ Here, you can listen to an example voice from each TTS document reader.
   </tr>
   <tr>
     <td><b>Adobe Acrobat</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/412d652f-5ce6-48c7-bdc7-b29c56c1052c?in=8j9shhld5qmv/sets/adobe-acrobat&si=167b7ffd932846b18f7424c266b9c9ff&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/d1fb0250-dcad-4b62-b680-fbdde03d26f4?in=8j9shhld5qmv/sets/adobe-acrobat&si=40d66dc34fb24eb08863f46f5e049a0a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
   <tr>
     <td><b>MathReader without T5     (Ablation Study)</b></td>
@@ -246,7 +246,7 @@ Here, you can listen to an example voice from each TTS document reader.
   </tr>
   <tr>
     <td><b>Adobe Acrobat</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/da0e2411-019a-4b9a-a916-9de70a1d5b3e?in=8j9shhld5qmv/sets/adobe-acrobat&si=4ad7c571e3154801bbf4462009fdf4a3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/412d652f-5ce6-48c7-bdc7-b29c56c1052c?in=8j9shhld5qmv/sets/adobe-acrobat&si=5a378ac9e9ec4d978a41ca2f61f38ad0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
   <tr>
     <td><b>MathReader without T5     (Ablation Study)</b></td>
@@ -276,7 +276,7 @@ Here, you can listen to an example voice from each TTS document reader.
   </tr>
   <tr>
     <td><b>Adobe Acrobat</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/d1fb0250-dcad-4b62-b680-fbdde03d26f4?in=8j9shhld5qmv/sets/adobe-acrobat&si=59df94cd2cab43d6a332c7ccca875744&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/da0e2411-019a-4b9a-a916-9de70a1d5b3e?in=8j9shhld5qmv/sets/adobe-acrobat&si=d3e9a06f5ea947d8854e1d5785bdf710&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
   <tr>
     <td><b>MathReader without T5     (Ablation Study)</b></td>
