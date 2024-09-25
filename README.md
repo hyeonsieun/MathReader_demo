@@ -25,19 +25,19 @@ Here, you can listen the example voice from each TTS document reader.
   <tr>
     <td rowspan="4"><img src="image/1.png" alt="document 1"></td>
     <td><b>MathReader</b></td>
-    <td><a href="https://drive.google.com/file/d/1ONoeIQmYewlm3N9T5bo9DsO2TUwxq2S4/view?usp=drive_link" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/b7641286-b7cf-4070-a9d9-e9e739266a50?in=8j9shhld5qmv/sets/mathreader&si=e7be50fab6564f458f3aeb9c7152ea3e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
   <tr>
     <td><b>Microsoft Edge</b></td>
-    <td><a href="https://drive.google.com/file/d/1k8xYV5iqa6s7_UEvJJxRPBpB_0nbHQTZ/view?usp=drive_link" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/956e9473-96a8-4f7b-b59c-243f69a7f2e2?in=8j9shhld5qmv/sets/microsoft-edge&si=edacc4982aa34998bb1df88590e68df3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
   <tr>
     <td><b>Adobe Acrobat</b></td>
-    <td><a href="https://drive.google.com/file/d/1Bc0FZFEa-NeTmNDidt42lqrT17mZ42k0/view?usp=drive_link" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/5a87227b-4a4b-43de-848a-ceec4f6f6b2e?in=8j9shhld5qmv/sets/adobe-acrobat&si=69e9e512e58d4f9c9572e9945b4ba806&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
   <tr>
     <td><b>MathReader without T5     (Ablation Study)</b></td>
-    <td><a href="https://drive.google.com/file/d/1m05IPg5uRJlyKkyhRpIZ--EShS2K6Rwt/view?usp=drive_link" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/6e3543f9-556f-4778-a642-3a8e2f44cd04?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=d7886bafad874d17a22133566d0d3802&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
 </table>
 
