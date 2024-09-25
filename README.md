@@ -128,7 +128,7 @@ Here, you can listen to an example voice from each TTS document reader.
   </tr>
   <tr>
     <td><b>MathReader without T5     (Ablation Study)</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/966b5b87-2c37-46ca-b75e-63af9189b9b1?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=03097ab8e7fd465086311fb6d86f0f61&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/6a4ea359-31c3-4168-93cf-67b1d6b37522?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=2a011eae47274d29bf294461ed7c1b59&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
 </table>
 
@@ -160,7 +160,7 @@ Here, you can listen to an example voice from each TTS document reader.
   </tr>
   <tr>
     <td><b>MathReader without T5     (Ablation Study)</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/da4208f4-120e-4687-b4fc-afdf8d5da9b5?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=7524609d91744323b902efa359480608&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/966b5b87-2c37-46ca-b75e-63af9189b9b1?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=a63c6e20ed7d494e943918ff7ae2b52b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
 </table>
 
@@ -190,7 +190,7 @@ Here, you can listen to an example voice from each TTS document reader.
   </tr>
   <tr>
     <td><b>MathReader without T5     (Ablation Study)</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/4e156825-3b15-4e0f-86c2-8c4cd1055881?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=605de703fb1741a2bd9b2dd4942994f1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/da4208f4-120e-4687-b4fc-afdf8d5da9b5?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=573214743f4f44eb99394c831be3a432&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
 </table>
 
@@ -220,7 +220,7 @@ Here, you can listen to an example voice from each TTS document reader.
   </tr>
   <tr>
     <td><b>MathReader without T5     (Ablation Study)</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/426c4766-9f4a-4c58-954e-7bc85031482e?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=ea087a54cdbc4f569d249e5db893539a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/4e156825-3b15-4e0f-86c2-8c4cd1055881?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=b207a45f986a489081e9990288f97596&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
 </table>
 
@@ -250,7 +250,7 @@ Here, you can listen to an example voice from each TTS document reader.
   </tr>
   <tr>
     <td><b>MathReader without T5     (Ablation Study)</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/a001b5a8-df26-458e-b2c9-7fd5f661ff18?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=7704154d55f5416ab1be96e629dd5f9a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/426c4766-9f4a-4c58-954e-7bc85031482e?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=6714ad14b8d64abb937392145cb2d986&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
 </table>
 
@@ -280,7 +280,7 @@ Here, you can listen to an example voice from each TTS document reader.
   </tr>
   <tr>
     <td><b>MathReader without T5     (Ablation Study)</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/6a4ea359-31c3-4168-93cf-67b1d6b37522?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=36a5713b8bea431194202013e93e7a44&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/a001b5a8-df26-458e-b2c9-7fd5f661ff18?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=1aba6719e9d0477bac9a3ec2780bc01f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
 </table>
 
@@ -310,6 +310,6 @@ Here, you can listen to an example voice from each TTS document reader.
   </tr>
   <tr>
     <td><b>MathReader without T5     (Ablation Study)</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/6e3543f9-556f-4778-a642-3a8e2f44cd04?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=a48025d9338947a18e63751ca36f7231&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/6e3543f9-556f-4778-a642-3a8e2f44cd04?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=f0b7218c358b4a91b135c93596b395bc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
   </tr>
 </table>
