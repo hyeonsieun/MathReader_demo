@@ -23,36 +23,6 @@ Here, you can listen to an example voice from each TTS document reader.
     <td align="center"><b>Audio Result</b></td>
   </tr>
   <tr>
-    <td rowspan="4"><img src="image/3.png" alt="document"></td>
-    <td><b>MathReader</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/8002e42f-8018-43d9-9897-1d962b4e54ef?in=8j9shhld5qmv/sets/mathreader&si=a5c1ef2db8ea4cd7894abd5b6e9ebef0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
-  </tr>
-  <tr>
-    <td><b>Microsoft Edge</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/4d4d1afc-6fb6-4ad1-8605-8021038836a9?in=8j9shhld5qmv/sets/microsoft-edge&si=849f1d22e7b349ef925e0f9f8993deca&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
-  </tr>
-  <tr>
-    <td><b>Adobe Acrobat</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/d6151c42-071a-449e-a62a-b133558ee83d?in=8j9shhld5qmv/sets/adobe-acrobat&si=d39ca713c98147d98a874f5eba435e41&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
-  </tr>
-  <tr>
-    <td><b>MathReader without T5     (Ablation Study)</b></td>
-    <td><a href="https://soundcloud.com/8j9shhld5qmv/68de0b0b-ed57-4ff0-81da-2e8f7a2db67e?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=5ac8bac11ebb4754b04d31812c9d26e5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
-  </tr>
-</table>
-
-<table border="1">
-  <colgroup>
-    <col style="width:800px;">
-    <col style="width:100px;">
-    <col style="width:100px;">
-  </colgroup>
-  <tr>
-    <td align="center"><b>Document 2</b></td>
-    <td align="center"><b>TTS document reader</b></td>
-    <td align="center"><b>Audio Result</b></td>
-  </tr>
-  <tr>
     <td rowspan="4"><img src="image/4.png" alt="document"></td>
     <td><b>MathReader</b></td>
     <td><a href="https://soundcloud.com/8j9shhld5qmv/2a7135c2-da8c-4a59-abf3-898777244fc3?in=8j9shhld5qmv/sets/mathreader&si=d72807dd40ed4c41ac3216d78bd05f6e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
@@ -78,7 +48,7 @@ Here, you can listen to an example voice from each TTS document reader.
     <col style="width:100px;">
   </colgroup>
   <tr>
-    <td align="center"><b>Document 3</b></td>
+    <td align="center"><b>Document 2</b></td>
     <td align="center"><b>TTS document reader</b></td>
     <td align="center"><b>Audio Result</b></td>
   </tr>
@@ -101,7 +71,35 @@ Here, you can listen to an example voice from each TTS document reader.
   </tr>
 </table>
 
-
+<table border="1">
+  <colgroup>
+    <col style="width:800px;">
+    <col style="width:100px;">
+    <col style="width:100px;">
+  </colgroup>
+  <tr>
+    <td align="center"><b>Document 3</b></td>
+    <td align="center"><b>TTS document reader</b></td>
+    <td align="center"><b>Audio Result</b></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><img src="image/3.png" alt="document"></td>
+    <td><b>MathReader</b></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/8002e42f-8018-43d9-9897-1d962b4e54ef?in=8j9shhld5qmv/sets/mathreader&si=a5c1ef2db8ea4cd7894abd5b6e9ebef0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+  </tr>
+  <tr>
+    <td><b>Microsoft Edge</b></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/4d4d1afc-6fb6-4ad1-8605-8021038836a9?in=8j9shhld5qmv/sets/microsoft-edge&si=849f1d22e7b349ef925e0f9f8993deca&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+  </tr>
+  <tr>
+    <td><b>Adobe Acrobat</b></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/d6151c42-071a-449e-a62a-b133558ee83d?in=8j9shhld5qmv/sets/adobe-acrobat&si=d39ca713c98147d98a874f5eba435e41&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+  </tr>
+  <tr>
+    <td><b>MathReader without T5     (Ablation Study)</b></td>
+    <td><a href="https://soundcloud.com/8j9shhld5qmv/68de0b0b-ed57-4ff0-81da-2e8f7a2db67e?in=8j9shhld5qmv/sets/mathreader-without-t5-ablation-study&si=5ac8bac11ebb4754b04d31812c9d26e5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Click Here</a></td>
+  </tr>
+</table>
 
 <table border="1">
   <colgroup>
