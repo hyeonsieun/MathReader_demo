@@ -5,7 +5,7 @@ TTS (Text-to-Speech) document reader from Microsoft, Adobe, Apple, and OpenAI ha
 
 ### This page is for submission to ICASSP 2025.
 
-Here, you can listen the example voice from each TTS document reader.
+Here, you can listen to an example voice from each TTS document reader.
 
 ---
 
