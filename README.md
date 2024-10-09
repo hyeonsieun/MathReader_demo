@@ -19,7 +19,7 @@ Here, you can listen to an example voice from each TTS document reader.
     <col style="width:100px;">
   </colgroup>
   <tr>
-    <td align="center"><b>[Document 1](https://www.science.smith.edu/~callahan/cic/ch6.pdf)</b></td>
+    <td align="center"><b>![Document 1](https://www.science.smith.edu/~callahan/cic/ch6.pdf)</b></td>
     <td align="center"><b>TTS document reader</b></td>
     <td align="center"><b>Audio Result</b></td>
   </tr>
