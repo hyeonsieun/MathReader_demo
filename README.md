@@ -141,7 +141,7 @@ Here, you can listen to an example voice from each TTS document reader.
     <col style="width:100px;">
   </colgroup>
   <tr>
-    <td align="center"><b>Document 5</b></td>
+    <td align="center"><a href="https://discrete.openmathbooks.org/pdfs/dmoi4.pdf"><b>Document 5</b></a></td>
     <td align="center"><b>TTS document reader</b></td>
     <td align="center"><b>Audio Result</b></td>
   </tr>
